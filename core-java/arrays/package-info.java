@@ -1,6 +1,6 @@
 
 /*
-   @author ASHRAFULQU10
+   @author ASHRAFUL
    Nov 29, 2023
 */
 package arrays;
