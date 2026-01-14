@@ -16,4 +16,3 @@ public class ParallelSort {
 		Arrays.stream(num).forEach(n -> System.out.print(n + " "));
 	}
 }
-//qu10
